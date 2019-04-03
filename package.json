@@ -1,0 +1,14 @@
+{
+  "name": "sous-chef",
+  "version": "1.0.0",
+  "description": "recipe app",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Karen McClellan",
+  "license": "ISC"
+}
